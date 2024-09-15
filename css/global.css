@@ -1,0 +1,20 @@
+/* colors */
+
+/*
+60% of #5088AF - Primary
+30% of #50AFA6 - Secondary
+10% of #50AF77 - Accent
+*/
+
+:root {
+
+/* var(--dominantColor) !important; */
+--dominantColor:#5088AF;
+
+/* var(--secondaryColor) !important; */
+--secondaryColor:#50AFA6;
+
+/* var(--accentColor) !important; */
+--accentColor:#50AF77;
+
+}
